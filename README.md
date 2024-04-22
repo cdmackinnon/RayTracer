@@ -2,7 +2,7 @@
 
 
 ## Description
-This is a simple ray tracer program that casts rays to render spheres. The program reads sphere data from a file (spheres.txt), calculates the intersection points of the rays with the spheres, handles shading and shadows, and outputs the rendered image in PPM format.
+This is a ray tracer program that casts rays to render photogenic spheres. The program reads sphere data from a specification file listing dimensions (spheres.txt), calculates the intersection points of the rays with the spheres, handles shading and shadows of spheres on each other, and outputs the rendered image in PPM format.
 
 ## How to Compile
 To compile the ray tracer use the following command:
